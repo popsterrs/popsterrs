@@ -26,12 +26,21 @@
 </table>
 
 ## Recent Work
-<table><tr><td valign="top" width="33%">
-  <a href="https://gyazo.com/379db31a8433271cb64eea5a09f4a23c"><img src="https://i.gyazo.com/379db31a8433271cb64eea5a09f4a23c.gif" alt="Image from Gyazo" width="1000"/></a>
-  
-<a href="https://gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62"><img src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.gif" alt="Image from Gyazo" width="1000"/></a>
-
-<a href="https://gyazo.com/176f276bfa54ae3463c00149cbaa5616"><img src="https://i.gyazo.com/176f276bfa54ae3463c00149cbaa5616.gif" alt="Image from Gyazo" width="900"/></a>
-
-<a href="https://gyazo.com/251197b7c5009b0f36f3bae21a06c498"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="1553"/></a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gyazo.com/379db31a8433271cb64eea5a09f4a23c"><img src="https://i.gyazo.com/379db31a8433271cb64eea5a09f4a23c.gif" alt="Image from Gyazo" width="100%"/></a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62"><img src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.gif" alt="Image from Gyazo" width="100%"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gyazo.com/176f276bfa54ae3463c00149cbaa5616"><img src="https://i.gyazo.com/176f276bfa54ae3463c00149cbaa5616.gif" alt="Image from Gyazo" width="100%"/></a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://gyazo.com/251197b7c5009b0f36f3bae21a06c498"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="100%"/></a>
+    </td>
+  </tr>
 </table>
