@@ -29,21 +29,19 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://gyazo.com/379db31a8433271cb64eea5a09f4a23c"><img src="https://i.gyazo.com/379db31a8433271cb64eea5a09f4a23c.gif" alt="Image from Gyazo" width="100%"/></a>
+      <a href="https://github.com/popsterrs/project-foshes-web"><img src="https://i.gyazo.com/379db31a8433271cb64eea5a09f4a23c.gif" alt="Image from Gyazo" width="100%"/></a>
     </td>
     <td valign="top" width="50%">
-      <a href="https://gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62"><img src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.gif" alt="Image from Gyazo" width="100%"/></a>
+      <a href="https://github.com/popsterrs/project-foshes-web"><img src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.gif" alt="Image from Gyazo" width="100%"/></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <blockquote class="imgur-embed-pub" lang="en" data-id="a/PA86Llz" data-context="false">
-        <a href="//imgur.com/a/PA86Llz"></a>
-      </blockquote>
-      <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://gyazo.com/2f07e3d1f4511527932ffc2e27b2f0e3"><img src="https://i.gyazo.com/2f07e3d1f4511527932ffc2e27b2f0e3.png" alt="Image from Gyazo" width="1677"/></a>
     </td>
     <td valign="top" width="50%">
       <a href="https://gyazo.com/251197b7c5009b0f36f3bae21a06c498"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="100%"/></a>
     </td>
   </tr>
 </table>
+
