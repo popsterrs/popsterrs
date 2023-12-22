@@ -16,10 +16,10 @@
 <img src=https://img.shields.io/badge/portfolio-%2308090A.svg?&style=for-the-badge&logo=vercel&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.twitch.tv/popsters_" target="_blank">
-<img src=https://img.shields.io/badge/twitch%2308090A.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitch-%2308090A.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="discordapp.com/users/popsters" target="_blank">
-<img src=https://img.shields.io/badge/discord%5c69e2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%5c69e2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
 </div>  
