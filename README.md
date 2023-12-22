@@ -5,7 +5,7 @@
 </table>
 
 ## Contact with me  
-<table style="margin: 0 auto;">
+<table style="width: 100%; margin: 0 auto;">
   <tr>
     <td valign="top" width="33%">
       <div style="text-align: center;">
