@@ -23,7 +23,7 @@
     <img src=https://img.shields.io/badge/discord-%5c69e2a.svg?&style=for-the-badge&logo=discord&logoColor=white alt=devto style="margin-bottom: 5px;" />
     </a>
 
-  <a href="https://twitter.com/popsterrs" target="_blank">
+  <a href="https://www.twitch.tv/popsters_" target="_blank">
     <img src=https://img.shields.io/badge/twitch-%2300acee.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
   </div>  
