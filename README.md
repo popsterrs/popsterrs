@@ -27,5 +27,5 @@
 
 ## Recent Work
 <table><tr><td valign="top" width="33%">
-  <a href="https://gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62"><video width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.mp4" type="video/mp4"/></video></a> 
+<a href="https://gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62"><img src="https://i.gyazo.com/c762cfd4ae734ffb5cfb79c67bcf7c62.gif" alt="Image from Gyazo" width="1000"/></a>
 </table>
