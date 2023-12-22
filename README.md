@@ -37,10 +37,10 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-<a href="https://gyazo.com/2f07e3d1f4511527932ffc2e27b2f0e3"><img src="https://i.gyazo.com/2f07e3d1f4511527932ffc2e27b2f0e3.png" alt="Image from Gyazo" width="1677"/></a>
+<a href="https://github.com/popsterrs/StreamScout"><img src="https://i.gyazo.com/2f07e3d1f4511527932ffc2e27b2f0e3.png" alt="Image from Gyazo" width="1677"/></a>
     </td>
     <td valign="top" width="50%">
-      <a href="https://gyazo.com/251197b7c5009b0f36f3bae21a06c498"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="100%"/></a>
+      <a href="https://www.roblox.com/games/12005360305/RPG-Development-Build"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="100%"/></a>
     </td>
   </tr>
 </table>
