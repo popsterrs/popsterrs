@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://gyazo.com/176f276bfa54ae3463c00149cbaa5616"><img src="https://i.gyazo.com/176f276bfa54ae3463c00149cbaa5616.gif" alt="Image from Gyazo" width="100%"/></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PA86Llz" data-context="false" ><a href="//imgur.com/a/PA86Llz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
     </td>
     <td valign="top" width="50%">
       <a href="https://gyazo.com/251197b7c5009b0f36f3bae21a06c498"><img src="https://i.gyazo.com/251197b7c5009b0f36f3bae21a06c498.jpg" alt="Image from Gyazo" width="100%"/></a>
